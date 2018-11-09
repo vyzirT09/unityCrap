@@ -62,17 +62,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Sprites\MirrorBounceTEST.cs" />
+    <Compile Include="Assets\Scripts\Sprites\SpriteMirrorBounce.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/VGD/Unity AM Q2/messin around/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/VGD/Unity AM Q2/unityCrap/messin around/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/VGD/Unity AM Q2/messin around/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/VGD/Unity AM Q2/unityCrap/messin around/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/VGD/Unity AM Q2/messin around/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/VGD/Unity AM Q2/unityCrap/messin around/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/VGD/Unity AM Q2/messin around/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/VGD/Unity AM Q2/unityCrap/messin around/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
